@@ -1,0 +1,6 @@
+{
+  "name": "Naira Tracker",
+  "description": "A native Android app to track daily personal and business spendings in Nigerian Naira (₦) with analytics and budget alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
